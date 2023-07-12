@@ -1,0 +1,4 @@
+owner: elky-bachtiar
+git-repo: helm
+git-base-url: https://api.github.com/
+git-upload-url: https://uploads.github.com/
